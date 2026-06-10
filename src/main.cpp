@@ -1,7 +1,7 @@
 // Copyright 2022 NNTU-CS
 #include "tree.h"
-#include <chrono>
 #include <cmath>
+#include <chrono>
 #include <iomanip>
 #include <iostream>
 #include <random>
